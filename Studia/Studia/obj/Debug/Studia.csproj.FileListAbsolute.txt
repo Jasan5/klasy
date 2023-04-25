@@ -1,0 +1,8 @@
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\bin\Debug\Studia.exe.config
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\bin\Debug\Studia.exe
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\bin\Debug\Studia.pdb
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\obj\Debug\Studia.csproj.AssemblyReference.cache
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\obj\Debug\Studia.csproj.SuggestedBindingRedirects.cache
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\obj\Debug\Studia.csproj.CoreCompileInputs.cache
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\obj\Debug\Studia.exe
+F:\szkola\Projektowanie oprogramowań\Studia\Studia\obj\Debug\Studia.pdb

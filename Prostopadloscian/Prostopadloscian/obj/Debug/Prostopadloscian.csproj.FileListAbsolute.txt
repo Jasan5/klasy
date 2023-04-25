@@ -1,0 +1,8 @@
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\bin\Debug\Prostopadloscian.exe.config
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\bin\Debug\Prostopadloscian.exe
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\bin\Debug\Prostopadloscian.pdb
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\obj\Debug\Prostopadloscian.csproj.AssemblyReference.cache
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\obj\Debug\Prostopadloscian.csproj.SuggestedBindingRedirects.cache
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\obj\Debug\Prostopadloscian.csproj.CoreCompileInputs.cache
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\obj\Debug\Prostopadloscian.exe
+D:\szkola\Projektowanie oprogramowań\Prostopadloscian\Prostopadloscian\obj\Debug\Prostopadloscian.pdb
