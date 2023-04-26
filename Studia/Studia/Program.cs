@@ -35,13 +35,13 @@ namespace Studia
             else
                 punktyMatematyka = 100;
             if (inf < 100 && inf > 0)
-                punktyInformatyka = mat;
+                punktyInformatyka = inf;
             else if (inf <= 0)
                 punktyInformatyka = 0;
             else
                 punktyInformatyka = 100;
             if (lan < 100 && lan > 0)
-                punktyJezykObcy = mat;
+                punktyJezykObcy = lan;
             else if (lan <= 0)
                 punktyJezykObcy = 0;
             else
